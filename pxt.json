@@ -6,7 +6,7 @@
     }, 
     "files": [
         "README.md",
-        "numberToDoubleStr.ts",
+        "numberToDoubleStr.ts"
     ],
     "testFiles": [
         "test.ts"
