@@ -2,9 +2,6 @@
     "name": "二桁化Mod",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
     },
     "files": [
         "main.ts",
