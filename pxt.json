@@ -5,10 +5,8 @@
         "core": "*"
     }, 
     "files": [
-        "main.ts",
         "README.md",
         "numberToDoubleStr.ts",
-        "test.ts"
     ],
     "testFiles": [
         "test.ts"
