@@ -4,7 +4,6 @@
     "dependencies": {
     },
     "files": [
-        "main.ts",
         "README.md",
         "numberToDoubleStr.ts",
         "test.ts"
